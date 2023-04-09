@@ -1,0 +1,5 @@
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.PartMethod2\obj\Debug\netstandard2.0\SourceGenerator.PartMethod2.csproj.AssemblyReference.cache
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.PartMethod2\obj\Debug\netstandard2.0\SourceGenerator.PartMethod2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.PartMethod2\obj\Debug\netstandard2.0\SourceGenerator.PartMethod2.AssemblyInfoInputs.cache
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.PartMethod2\obj\Debug\netstandard2.0\SourceGenerator.PartMethod2.AssemblyInfo.cs
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.PartMethod2\obj\Debug\netstandard2.0\SourceGenerator.PartMethod2.csproj.CoreCompileInputs.cache

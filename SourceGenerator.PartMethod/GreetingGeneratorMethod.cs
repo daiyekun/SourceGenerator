@@ -25,8 +25,6 @@ namespace SourceGenerator.PartMethod
                 #nullable enable
                 namespace GreetingTest;
 
-                
-                
                  public static partial class GreetingUsePartialClass
                  {
                    public  static partial void SayHelloTo1(string name)
