@@ -1,0 +1,10 @@
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.PartMethod\obj\Debug\netstandard2.0\SourceGenerator.PartMethod.csproj.AssemblyReference.cache
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.PartMethod\obj\Debug\netstandard2.0\SourceGenerator.PartMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.PartMethod\obj\Debug\netstandard2.0\SourceGenerator.PartMethod.AssemblyInfoInputs.cache
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.PartMethod\obj\Debug\netstandard2.0\SourceGenerator.PartMethod.AssemblyInfo.cs
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.PartMethod\obj\Debug\netstandard2.0\SourceGenerator.PartMethod.csproj.CoreCompileInputs.cache
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.PartMethod\bin\Debug\netstandard2.0\SourceGenerator.PartMethod.deps.json
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.PartMethod\bin\Debug\netstandard2.0\SourceGenerator.PartMethod.dll
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.PartMethod\bin\Debug\netstandard2.0\SourceGenerator.PartMethod.pdb
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.PartMethod\obj\Debug\netstandard2.0\SourceGenerator.PartMethod.dll
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.PartMethod\obj\Debug\netstandard2.0\SourceGenerator.PartMethod.pdb

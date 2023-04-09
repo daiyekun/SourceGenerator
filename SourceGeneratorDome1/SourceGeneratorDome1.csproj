@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SourceGenerator.Basic\SourceGenerator.Basic.csproj" OutputItemType="Analyzer" ReferenceOutAssembly="false" />
+    <ProjectReference Include="..\SourceGenerator.PartMethod\SourceGenerator.PartMethod.csproj" OutputItemType="Analyzer" ReferenceOutAssembly="false" />
+  </ItemGroup>
+
+</Project>

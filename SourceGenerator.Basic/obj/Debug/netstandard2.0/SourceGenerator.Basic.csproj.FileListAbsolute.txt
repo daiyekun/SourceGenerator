@@ -1,0 +1,10 @@
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.Basic\bin\Debug\netstandard2.0\SourceGenerator.Basic.deps.json
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.Basic\bin\Debug\netstandard2.0\SourceGenerator.Basic.dll
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.Basic\bin\Debug\netstandard2.0\SourceGenerator.Basic.pdb
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.Basic\obj\Debug\netstandard2.0\SourceGenerator.Basic.csproj.AssemblyReference.cache
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.Basic\obj\Debug\netstandard2.0\SourceGenerator.Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.Basic\obj\Debug\netstandard2.0\SourceGenerator.Basic.AssemblyInfoInputs.cache
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.Basic\obj\Debug\netstandard2.0\SourceGenerator.Basic.AssemblyInfo.cs
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.Basic\obj\Debug\netstandard2.0\SourceGenerator.Basic.csproj.CoreCompileInputs.cache
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.Basic\obj\Debug\netstandard2.0\SourceGenerator.Basic.dll
+D:\MyCode\wooxuexi\sourcegenerator\SourceGeneratorDome1\SourceGenerator.Basic\obj\Debug\netstandard2.0\SourceGenerator.Basic.pdb
